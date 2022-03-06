@@ -106,12 +106,6 @@
   margin: 20px 23px 0;
 }
 
-.u-section-1 .u-btn-2 {
-  background-image: none;
-  font-weight: 700;
-  padding: 0;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 17.3333px));
